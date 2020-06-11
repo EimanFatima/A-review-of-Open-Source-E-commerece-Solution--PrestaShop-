@@ -1,2 +1,2 @@
-# Assignment-1
+# PrestaShop
 Understanding and using prestaShop to create an online shopping website 
